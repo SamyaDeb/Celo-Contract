@@ -13,7 +13,7 @@ The contract exposes a minimal on-chain counter with functions to increment, dec
 - Environment-variable driven private key and RPC management
 - Clean project structure suitable for extension
 
-### Deployed Smart Contract Link: 004e637d997edcd42c1164c5f8d3e87630e75219393cf9f0171b79c904586a58
+### Deployed Smart Contract Link: https://celo-sepolia.blockscout.com/address/0x521928d722209AEDE2B2518FA98D7b467Dc52f89
 
 ### Use this code
 // SPDX-License-Identifier: MIT

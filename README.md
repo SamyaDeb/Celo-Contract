@@ -1,5 +1,8 @@
 ## Counter on Celo Sepolia
 
+<img width="1470" height="956" alt="Screenshot 2025-10-29 at 1 53 12 PM" src="https://github.com/user-attachments/assets/65d7c5a1-190f-456a-8e0f-0801b9faf5da" />
+
+
 ### Project Description
 This repository contains a simple, production-ready setup for deploying a Solidity smart contract (a basic Counter) to the Celo Sepolia testnet using Hardhat. It’s tailored to be beginner-friendly while keeping a clean structure for real-world use.
 

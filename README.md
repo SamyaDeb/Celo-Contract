@@ -39,9 +39,8 @@ contract Counter {
     }
 }
 
----
+
 
 If you find this helpful, consider starring the repo and extending the contract or scripts to suit your needs (e.g., verification, CI/CD, or a frontend dapp). Happy building on Celo!
 
 
-# Celo-Contract
